@@ -2,6 +2,7 @@
 *.log
 *.pot
 *.pyc
+.idea/
 __pycache__
 
 studyportal/__pycache__/
@@ -13,10 +14,4 @@ env
 venv
 .vscode
 
-# If you are using PyCharm # 
-# User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+db.sqlite3
